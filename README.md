@@ -5,5 +5,5 @@ Toto je ukázka verzování.
 ### Test
 Test pull requestu :o
 
-### Úprava
+### Úprava v2
 Úprava README v branchi patch-fix.
