@@ -1,0 +1,3 @@
+commit = uložená verze
+branch = větev
+merge = sloučení změn
